@@ -16,19 +16,19 @@
   wget -O hy2.sh <https://raw.githubusercontent.com/zrlhk/alpine-hysteria2/main/hy2.sh>  && sh hy2.sh
   ```
 
-- [233boy/sing-box](233boy/sing-box)
+- [233boy/sing-box](https://github.com/233boy/sing-box)
 
   ```
   bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
   ```
 
-- [singbox/deploy](singbox/deploy)
+- [singbox/deploy](https://github.com/caigouzi121380/singbox-deploy)
 
   ```
   bash -c "$(curl -fsSL https://raw.githubusercontent.com/caigouzi121380/singbox-deploy/main/install-singbox-yyds.sh)"
   ```
 
-- [Tangfffyx/sing-box](Tangfffyx/sing-box)
+- [Tangfffyx/sing-box](https://github.com/Tangfffyx/sing-box)
 
   ```
   wget -O sb.sh https://raw.githubusercontent.com/Tangfffyx/sing-box/main/sb.sh && bas

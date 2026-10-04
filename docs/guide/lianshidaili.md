@@ -35,10 +35,9 @@ text
 
 #### 软件下载（请更新到最新版本）
 
-- **V2rayN**：GitHub Releases 页面搜索 [2dust/v2rayN](`https://github.com/2dust/v2rayN/releases`)
+- **V2rayN**：GitHub Releases 页面搜索 [2dust/v2rayN](https://github.com/2dust/v2rayN/releases)
   
-- **Clash Verge Rev**：GitHub Releases 页面搜索  [clash-verge-rev/clash-verge](`https://github.com/clash-verge-rev/clash-verge-rev/releases`)
-  
+- **Clash Verge Rev**：GitHub Releases 页面搜索  [clash-verge-rev/clash-verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
 > 💡 **实测提示**：V2rayN 比 Clash Verge Rev 稳定很多！
 
