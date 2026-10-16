@@ -4,3 +4,4 @@ docs/.vitepress/dist/
 .idea/
 .DS_Store
 npm-debug.log*
+本地预览.txt
