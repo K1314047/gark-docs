@@ -30,6 +30,23 @@
 </div>
 
 
+## 2026-10-22
+
+### 2ND-ZEST
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261022/image.2kspwb1ekx.webp)
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261022/image.7i16q5fpk1.webp)
+
+ZEST 这一场验证了两件事：
+
+- **日锚最稳。** 第 6 天门槛加近两天日均增量，连续两场误差在 ±0.5% 以内。
+- **最后两小时的转化率应该用三场的平均约 11.5‱，而不是最近一小时的数值。**
+
+
+
+------
+
 ## 2026-10-21
 
 ### 1ST-DGAI
