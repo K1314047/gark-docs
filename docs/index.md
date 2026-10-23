@@ -30,6 +30,24 @@
 </div>
 
 
+## 2026-10-23
+
+### 2ND-STABLE
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261023/image.6t7x7lr3pa.webp)
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261023/image.3d5lfihr2m.webp)
+
+7天交易赛总交易量：**755,422,715.58**
+
+### 1ST-ACU
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261023/image.5xbfs5jv7c.webp)
+
+7天交易赛总交易量：**429,653,664.41**
+
+------
+
 ## 2026-10-22
 
 ### 2ND-ZEST
