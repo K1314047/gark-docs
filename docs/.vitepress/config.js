@@ -80,6 +80,11 @@ link:"/guide/komaribushu"
 },
 
 {
+text:"WAWO-DNS修改与WARP安装",
+link:"/guide/wawo"
+},
+
+{
 text:"Vercel部署",
 link:"/guide/deploy"
 }

@@ -28,7 +28,23 @@
   <a href="https://x.com/ayig61" target="_blank" style="color: #1da1f2; text-decoration: none;">X @ayig61</a>
   <a href="mailto:1314047@gmail.com" style="color: #ea4335; text-decoration: none;">1314047@gmail.com</a>
 </div>
+## 2026-10-28
 
+### 2ST-DGAI
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261028/image.2ksq4wu65h.webp)
+
+第一期就把第二期的套保了，第二期早早的也刷完了就没关注这个币最后一天的交易量。
+
+## 2026-10-27
+
+### 1ST-DNA
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261027/image.3k8tgoiul3.webp)
+
+四倍币交易量大，提早刷也要亏本，当刷分补贴。
+
+7天交易赛总交易量：**1,597,995,151.04**
 
 ## 2026-10-23
 
@@ -45,6 +61,8 @@
 ![](https://github.com/K1314047/picx-images-hosting/raw/master/20261023/image.5xbfs5jv7c.webp)
 
 7天交易赛总交易量：**429,653,664.41**
+
+
 
 ------
 
