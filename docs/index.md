@@ -1,7 +1,7 @@
 ## G.Ark Docs
-> 一个专注于技术分享与踩坑记录的文档库。
+> 技术教程、实用工具与交易赛复盘的个人文档库。
 
-在这里，你可以找到关于 [前端/后端/运维] 的教程、工具推荐和实战笔记。
+内容主要分两部分：一是 Linux、代理、部署上线等实战教程与工具配置的踩坑记录；二是每场交易赛的实时交易量、门槛变化与预测复盘，沉淀可复用的预测模型和执行打法。
 
 ::: info 声明
 本站图床服务器位于海外，未针对中国大陆地区做访问优化。如果您无法正常加载图片，请自行尝试使用网络代理等方式解决，感谢理解。
@@ -28,13 +28,33 @@
   <a href="https://x.com/ayig61" target="_blank" style="color: #1da1f2; text-decoration: none;">X @ayig61</a>
   <a href="mailto:1314047@gmail.com" style="color: #ea4335; text-decoration: none;">1314047@gmail.com</a>
 </div>
+## 2026-10-29
+
+### 1ST-ON
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261029/image.etbkj9mns.webp)
+
+19、20点交易量有点大，最后又多补了一些交易量
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261029/image.5xbg0op54z.webp)
+
+7天交易赛总交易量：**521175608.86**
+
+
+
+------
+
 ## 2026-10-28
 
-### 2ST-DGAI
+### 2ND-DGAI
 
 ![](https://github.com/K1314047/picx-images-hosting/raw/master/20261028/image.2ksq4wu65h.webp)
 
 第一期就把第二期的套保了，第二期早早的也刷完了就没关注这个币最后一天的交易量。
+
+7天交易赛总交易量：**685156646.92**
 
 ## 2026-10-27
 
@@ -60,6 +80,10 @@
 
 ![](https://github.com/K1314047/picx-images-hosting/raw/master/20261023/image.5xbfs5jv7c.webp)
 
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261029/image.362drc4idg.webp)
+
 7天交易赛总交易量：**429,653,664.41**
 
 
@@ -73,6 +97,10 @@
 ![](https://github.com/K1314047/picx-images-hosting/raw/master/20261022/image.2kspwb1ekx.webp)
 
 ![](https://github.com/K1314047/picx-images-hosting/raw/master/20261022/image.7i16q5fpk1.webp)
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261029/image.6m4pjf9j8s.webp)
 
 ZEST 这一场验证了两件事：
 
