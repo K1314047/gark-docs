@@ -28,6 +28,22 @@
   <a href="https://x.com/ayig61" target="_blank" style="color: #1da1f2; text-decoration: none;">X @ayig61</a>
   <a href="mailto:1314047@gmail.com" style="color: #ea4335; text-decoration: none;">1314047@gmail.com</a>
 </div>
+## 2026-11-2
+
+### 1ST-AXIS
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261102/image.362dyb5e7s.webp)
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261102/image.17677zfpa9.webp)
+
+AXIS交易赛期间遇到币安被盗，币安关闭了即时订单，加上币价一直下跌，就没什么人在刷，所以这次的数据没什么参考意义
+
+7天交易赛总交易量：**249,990,239.35**
+
+------
+
 ## 2026-10-29
 
 ### 1ST-ON
