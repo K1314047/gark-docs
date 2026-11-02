@@ -34,7 +34,13 @@
   wget -O sb.sh https://raw.githubusercontent.com/Tangfffyx/sing-box/main/sb.sh && bas
   ```
 
+- [a6216abcd/newsuoha.sh](https://github.com/a6216abcd/newsuoha.sh)
 
+  ```
+  bash -c "$(wget -qO- https://raw.githubusercontent.com/a6216abcd/newsuoha.sh/refs/heads/main/suoha.sh)"
+  ```
+
+  
 
 ## **Linux / 运维**
 
