@@ -40,9 +40,15 @@
   bash -c "$(wget -qO- https://raw.githubusercontent.com/a6216abcd/newsuoha.sh/refs/heads/main/suoha.sh)"
   ```
 
+- [eooce/xray-2go](https://github.com/eooce/xray-2go)
+
+  ```
+  bash <(curl -Ls https://github.com/eooce/xray-2go/raw/main/xray_2go.sh)
+  ```
+
   
 
-## **Linux / 运维**
+  ## **Linux / 运维**
 
 - 一键清理服务器脚本
 

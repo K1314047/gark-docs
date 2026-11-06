@@ -30,6 +30,34 @@
 </div>
 
 
+## 2026-11-5
+
+### 2ND-ON
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261105/image.58i6qpr6be.webp)
+
+前两天刷完了，今天没关注榜单了
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261105/image.2a5wn7pife.webp)
+
+7天交易赛总交易量：**564,071,026.06**
+
+
+
+## 2026-11-3
+
+### 2ND-NDA
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261103/image.icxpdg415.webp)
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261103/image.73urgem27u.webp)
+
+7天交易赛总交易量：**1610952635.32**
+
 ## 2026-11-2
 
 ### 1ST-AXIS
