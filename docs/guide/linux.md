@@ -2,64 +2,73 @@
 
 - Debian 系统安装 Hysteria2
 
-  ```
-  wget -N --no-check-certificate <https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh> && bash hysteria.sh
-  ```
+
+```
+wget -N --no-check-certificate <https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh> && bash hysteria.sh
+```
 
 - Alpine 系统安装 Hysteria2
 
-  ```
-  apk update && apk upgrade
-  ```
 
-  ```
-  wget -O hy2.sh <https://raw.githubusercontent.com/zrlhk/alpine-hysteria2/main/hy2.sh>  && sh hy2.sh
-  ```
+```
+apk update && apk upgrade
+```
+
+```
+wget -O hy2.sh <https://raw.githubusercontent.com/zrlhk/alpine-hysteria2/main/hy2.sh>  && sh hy2.sh
+```
 
 - [233boy/sing-box](https://github.com/233boy/sing-box)
 
-  ```
-  bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
-  ```
+```
+bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
+```
 
 - [singbox/deploy](https://github.com/caigouzi121380/singbox-deploy)
 
-  ```
-  bash -c "$(curl -fsSL https://raw.githubusercontent.com/caigouzi121380/singbox-deploy/main/install-singbox-yyds.sh)"
-  ```
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/caigouzi121380/singbox-deploy/main/install-singbox-yyds.sh)"
+```
 
 - [Tangfffyx/sing-box](https://github.com/Tangfffyx/sing-box)
 
-  ```
-  wget -O sb.sh https://raw.githubusercontent.com/Tangfffyx/sing-box/main/sb.sh && bas
-  ```
+```
+wget -O sb.sh https://raw.githubusercontent.com/Tangfffyx/sing-box/main/sb.sh && bas
+```
 
 - [a6216abcd/newsuoha.sh](https://github.com/a6216abcd/newsuoha.sh)
 
-  ```
-  bash -c "$(wget -qO- https://raw.githubusercontent.com/a6216abcd/newsuoha.sh/refs/heads/main/suoha.sh)"
-  ```
+```
+bash -c "$(wget -qO- https://raw.githubusercontent.com/a6216abcd/newsuoha.sh/refs/heads/main/suoha.sh)"
+```
 
 - [eooce/xray-2go](https://github.com/eooce/xray-2go)
 
-  ```
-  bash <(curl -Ls https://github.com/eooce/xray-2go/raw/main/xray_2go.sh)
-  ```
+```
+bash <(curl -Ls https://github.com/eooce/xray-2go/raw/main/xray_2go.sh)
+```
 
-  
+- Singbox-Manager 🧰 一键SSH命令生成器
 
-  ## **Linux / 运维**
+```
+https://sbm.1733.dpdns.org/
+```
+
+
+
+## **Linux / 运维**
 
 - 一键清理服务器脚本
 
-  ```
-  bash <(curl -fsSL https://raw.githubusercontent.com/hiapb/debian-safe/main/clean.sh)
-  ```
+
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/hiapb/debian-safe/main/clean.sh)
+```
 
 - Windows CMD IP查询 命令
 
-  ```
-  ipconfig
-  ```
 
-  
+```
+ipconfig
+```
+
