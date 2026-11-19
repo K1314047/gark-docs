@@ -76,14 +76,18 @@ items:[
 {text:"Komari部署与美化",link:"/guide/komaribushu"},
 {text:"WAWO-DNS修改与WARP安装",link:"/guide/wawo"},
 {text:"CF-Server-Monitor突破免费额度",link:"/guide/cftanzhen"},
-{text:"NAT VPS 部署哪吒监控",link:"/guide/nat-vps-nezha"}
+{text:"NAT VPS 部署哪吒监控",link:"/guide/nat-vps-nezha"},
+{text:"VPS 流量监控 Telegram Bot",link:"/guide/vps-traffic-bot"}
 ]
 },
 
 {
 text:"自动化与推送",
 items:[
-{text:"RSS-to-Telegram-Bot 部署",link:"/guide/rss-to-telegram"}
+{text:"RSS-to-Telegram-Bot 部署",link:"/guide/rss-to-telegram"},
+{text:"Nodeseek 关键词检测 TG 推送（Docker 版）",link:"/guide/nodeseek-tg-monitor"},
+{text:"Telegram → Bark 轻量转发器",link:"/guide/telegram-bark-forwarder"},
+{text:"RSS 订阅 YouTube / Telegram 频道",link:"/guide/rss-youtube-telegram"}
 ]
 },
 
@@ -107,6 +111,8 @@ text:"节点与效率",
 items:[
 {text:"节点分享网站代码",link:"/guide/node-share"},
 {text:"Chrome 多开隔离账号",link:"/guide/chrome-multi-instance"},
+{text:"NAT VPS 打造高性价比节点",link:"/guide/nat-vps-node"},
+{text:"纯 IPv6 VPS 部署 sing-box（WARP + hysteria2）",link:"/guide/ipv6-vps-singbox"},
 {text:"查询电脑 IP 地址",link:"/guide/win10-ip"}
 ]
 }
