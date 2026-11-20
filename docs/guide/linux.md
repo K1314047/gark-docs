@@ -1,23 +1,5 @@
 ## **网络与代理**
 
-- Debian 系统安装 Hysteria2
-
-
-```
-wget -N --no-check-certificate <https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh> && bash hysteria.sh
-```
-
-- Alpine 系统安装 Hysteria2
-
-
-```
-apk update && apk upgrade
-```
-
-```
-wget -O hy2.sh <https://raw.githubusercontent.com/zrlhk/alpine-hysteria2/main/hy2.sh>  && sh hy2.sh
-```
-
 - [233boy/sing-box](https://github.com/233boy/sing-box)
 
 ```
@@ -52,6 +34,18 @@ bash <(curl -Ls https://github.com/eooce/xray-2go/raw/main/xray_2go.sh)
 
 ```
 https://sbm.1733.dpdns.org/
+```
+
+- 独角鲸二选一部署 xray/hysteria2
+
+```
+bash <(curl -fsSL https://img.euuuo.xyz:8443/deploy.sh)
+```
+
+- [shangui999/vless-reality-cf](https://github.com/shangui999/vless-reality-cf)
+
+```
+wget -O vless-reality-cf.sh https://raw.githubusercontent.com/shangui999/vless-reality-cf/master/vless-reality-cf.sh && chmod +x vless-reality-cf.sh && sudo ./vless-reality-cf.sh
 ```
 
 

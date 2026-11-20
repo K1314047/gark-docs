@@ -28,7 +28,33 @@
   <a href="https://x.com/ayig61" target="_blank" style="color: #1da1f2; text-decoration: none;">X @ayig61</a>
   <a href="mailto:1314047@gmail.com" style="color: #ea4335; text-decoration: none;">1314047@gmail.com</a>
 </div>
+## 2026-11-20 1ST-COLLECT落榜
 
+### 1ST-COLLECT
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261120/image.92qyv0mqhm.webp)
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261120/image.7i17vjube1.webp)
+
+大意了，没进榜
+
+## 2026-11-19 1ST-LAB
+
+### 1ST-LAB
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261119/image.4n8jodglyd.webp)
+
+交易赛期间4小时走势图
+
+![](https://github.com/K1314047/picx-images-hosting/raw/master/20261119/image.9o0mfxrdnz.webp)
+
+7天交易赛总交易量：**471,471,173.69**
+
+币安被盗后第一个交易赛，一开始以为大家没币刷分，会很卷，没想到大家都不怎么刷了
+
+------
 
 ## 2026-11-09 2ND-AXIS
 
